@@ -1,2 +1,2 @@
 # ML-HW
-ML home work
+ML homework
